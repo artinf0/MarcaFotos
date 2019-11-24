@@ -1,0 +1,29 @@
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe.config
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.pdb
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.Form1.resources
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.Properties.Resources.resources
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.csproj.GenerateResource.Cache
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.exe
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.pdb
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe.manifest
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.application
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.TrustInfo.xml
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.exe.manifest
+c:\users\arthur\documents\visual studio 2013\Projects\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.application
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe.config
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe.manifest
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.application
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.exe
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\bin\Debug\MarcaFotos.pdb
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.Form1.resources
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.Properties.Resources.resources
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.csproj.GenerateResource.Cache
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.TrustInfo.xml
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.exe.manifest
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.application
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.exe
+C:\Users\Arthur\source\repos\MarcaFotos\MarcaFotos\obj\Debug\MarcaFotos.pdb
